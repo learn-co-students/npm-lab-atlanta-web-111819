@@ -1,0 +1,22 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "app for learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertTTaylor9517/npm-lab-atlanta-web-111819.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertTTaylor9517/npm-lab-atlanta-web-111819/issues"
+  },
+  "homepage": "https://github.com/RobertTTaylor9517/npm-lab-atlanta-web-111819#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
